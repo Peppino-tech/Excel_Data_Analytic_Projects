@@ -17,6 +17,9 @@ For this analysis, the following Excel skills were utilized:
 
 ## Project 2-Salary Analysis
 
+![image](https://github.com/user-attachments/assets/b8588b69-31d6-4938-bc39-76eb90ec29c8)
+![image](https://github.com/user-attachments/assets/90478259-58eb-4e48-b7f1-21e65a3b3d43)
+
 This project explores what skills top employers look for and how they affect salaries.
 
 The analysis for this project was conducted using the following Excel skills:
